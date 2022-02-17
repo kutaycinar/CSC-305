@@ -22,7 +22,11 @@ All programming done in JavaScript and WebGL (GLSL).
 # In this repository
 
 ## [A1: Aquatic Scene Replication](./Assignment%201)
+![firefox_tVhJG7TL9d](https://user-images.githubusercontent.com/76612427/154411800-e25c1b75-ed4d-48d4-b9b7-faa353ac40bb.gif)
 
 ## [A2: Short Open Ended Animation](./Assignment%202)
+![firefox_kS2GVS8Ena](https://user-images.githubusercontent.com/76612427/154411636-bd73c60a-1d2f-49dc-9220-d0055fe790d0.gif)
+
 
 ## [A3: Ray Tracer](./Assignment%203)
+<img src="https://raw.githubusercontent.com/kutaycinar/RayTracer/main/tests/testSpecular.png" width="198" height="198"> <img src="https://raw.githubusercontent.com/kutaycinar/RayTracer/main/tests/testReflection.png" width="198" height="198"> <img src="https://raw.githubusercontent.com/kutaycinar/RayTracer/main/tests/testIntersection.png" width="198" height="198"> <img src="https://raw.githubusercontent.com/kutaycinar/RayTracer/main/tests/testShadow.png" width="198" height="198"> <img src="https://raw.githubusercontent.com/kutaycinar/RayTracer/main/tests/testIllum.png" width="198" height="198">
